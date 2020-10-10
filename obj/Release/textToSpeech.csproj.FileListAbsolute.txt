@@ -1,0 +1,10 @@
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.csprojAssemblyReference.cache
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.Main.resources
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.Properties.Resources.resources
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.csproj.GenerateResource.cache
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.csproj.CoreCompileInputs.cache
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\bin\Release\textToSpeech.exe.config
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\bin\Release\textToSpeech.exe
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\bin\Release\textToSpeech.pdb
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.exe
+C:\Users\shach\source\repos\textToSpeech\textToSpeech\obj\Release\textToSpeech.pdb
